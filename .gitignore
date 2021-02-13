@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+#approve 
+.ap
+#hacking
+.hack
+#disapprove
+.dap
+#mute
+.mute
+.gmute
+#ban
+.ban
+.gban
+
